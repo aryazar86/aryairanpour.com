@@ -1483,9 +1483,9 @@ article.format-quote .entry-content blockquote {
 	-ms-transform: scale(1);
 	transform: scale(1);	
 }
-
+/*
 /* =Comments
--------------------------------------------------------------- */
+-------------------------------------------------------------- 
 
 .comments-title {
 	margin-bottom: 48px;
@@ -1588,7 +1588,7 @@ a.comment-edit-link:hover {
 	margin-bottom: 1.714285714rem;
 }
 
-/* Comment form */
+/* Comment form 
 #respond {
 	margin-top: 48px;
 	margin-top: 3.428571429rem;
@@ -1642,7 +1642,7 @@ a.comment-edit-link:hover {
 .required {
 	color: red;
 }
-
+*/
 
 /* =Front page template
 -------------------------------------------------------------- */
